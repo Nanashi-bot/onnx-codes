@@ -4,6 +4,8 @@ This repository demonstrates running inference on ONNX models using C++ and the 
 
 ## Structure
 
+
+``` text
 onnx/
 ├── CMakeLists.txt
 ├── run_model.cpp
@@ -13,6 +15,7 @@ onnx/
 │ └── input.jpg # Test input image
 ├── build/ # Created during compilation (ignored)
 └── README.md
+```
 
 
 ## Requirements
